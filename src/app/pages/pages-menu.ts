@@ -210,6 +210,10 @@ export const MENU_ITEMS: NbMenuItem[] = [
         title: 'Tree Grid',
         link: '/pages/tables/tree-grid',
       },
+      {
+        title: 'With Options',
+        link: '/pages/tables/with-options',
+      },
     ],
   },
   {
